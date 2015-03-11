@@ -25,7 +25,9 @@ public class Fight {
 			{1, 1, 1, 1, 1, 1}
 	};
 	
-	
+	public void test() {
+		
+	}
 	
 	public void zeichnenFight() {
 		int y = 0;
