@@ -1,0 +1,5 @@
+package map;
+
+public enum Habitat {
+	GEBIRGE, MEER, SAVANNE, STRAND, SUMPF, WALD, WIESE, FISCH, FLEISCH, FRUECHTE, GETREIDE
+}
